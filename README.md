@@ -1,4 +1,4 @@
-<h1 align="center"> devInHouseSeniorFirstWeek </h1>
+<h1 align="center"> devInHouseSeniorThirdWeek </h1>
 <h3 align="center">([M1S03]) DevInHouse - Senior 2021</h3>
 <p align="center">
   <a href="https://github.com/MatheusBrandalise/devInHouseSeniorThirdWeek" target="_blank">
@@ -9,7 +9,7 @@
     <a href="https://linktr.ee/matheusbrandalise">
     <img src="https://img.shields.io/badge/followme-linktree-yellowgreen?style=for-the-badge"/>
     <img src="https://img.shields.io/github/repo-size/matheusbrandalise/devInHouseSeniorFirstWeek?style=for-the-badge"/>
-    <img src="https://img.shields.io/github/last-commit/matheusbrandalise/devInHouseSeniorFirstWeek?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/matheusbrandalise/devInHouseSeniorThirdWeek?style=for-the-badge"/>
 </p>
 
 ---
