@@ -25,3 +25,9 @@ O projeto foi inteiramente desenvolvido utilizando Java, como proposto.
 
 ---
 by [Matheus José Brandalise](https://linktr.ee/matheusbrandalise) 
+
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
