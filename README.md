@@ -1,5 +1,6 @@
 <h1 align="center"> devInHouseSeniorFirstWeek </h1>
 <h3 align="center">([M1S03]) DevInHouse - Senior 2021</h3>
+[DEVINFLIX](https://user-images.githubusercontent.com/42072670/148776546-4b2a8111-6e32-4453-bf4d-22f9bc0e55a1.png)
 <p align="center">
     <p align="center">
     <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge"/>
