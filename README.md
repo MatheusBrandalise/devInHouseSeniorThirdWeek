@@ -2,7 +2,9 @@
 <h3 align="center">([M1S03]) DevInHouse - Senior 2021</h3>
 
 <p align="center"
+   
     ![DEVINFLIX](https://user-images.githubusercontent.com/42072670/148776822-f75a63b7-bd7c-4baa-8943-d91e013367a2.png)
+   
 </p>
 
 <p align="center">
