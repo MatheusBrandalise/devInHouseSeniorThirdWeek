@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge"/>
     <a href="https://linktr.ee/matheusbrandalise">
     <img src="https://img.shields.io/badge/followme-linktree-yellowgreen?style=for-the-badge"/>
-    <img src="https://img.shields.io/github/repo-size/matheusbrandalise/devInHouseSeniorFirstWeek?style=for-the-badge"/>
-    <img src="https://img.shields.io/github/last-commit/matheusbrandalise/devInHouseSeniorThirdWeek?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/repo-size/MatheusBrandalise/devInHouseSeniorThirdWeek?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/MatheusBrandalise/devInHouseSeniorThirdWeek?style=for-the-badge"/>
 </p>
 
 ---
