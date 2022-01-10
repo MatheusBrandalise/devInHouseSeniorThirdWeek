@@ -1,8 +1,9 @@
 <h1 align="center"> devInHouseSeniorFirstWeek </h1>
 <h3 align="center">([M1S03]) DevInHouse - Senior 2021</h3>
-    ![DEVINFLIX](https://user-images.githubusercontent.com/42072670/148776822-f75a63b7-bd7c-4baa-8943-d91e013367a2.png?style=centerme)   
 <p align="center">
-    <p align="center">
+    <img alt="DEVINFLIX" title="DEVINFLIX" src="./docs/DEVINFLIX.png" />
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge"/>
     <a href="https://linktr.ee/matheusbrandalise">
     <img src="https://img.shields.io/badge/followme-linktree-yellowgreen?style=for-the-badge"/>
@@ -25,9 +26,3 @@ O projeto foi inteiramente desenvolvido utilizando Java, como proposto.
 
 ---
 by [Matheus José Brandalise](https://linktr.ee/matheusbrandalise) 
-
-
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
